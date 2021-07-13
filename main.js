@@ -1,6 +1,21 @@
 
-let x = 6;
-let y = 9;
+// var x = prompt (`ingrese el primer numero`);
+// var y = prompt (`ingrese el segundo numero`);
+let x = 7;
+let y = 6;
+
+
+//Operador de derecha
+// x >>= y;
+// x = x >> y;
+// console.log(x);
+
+
+//Operador de izquierda
+// x <<= y;
+// x = x << y;
+// console.log(x);
+
 
 //Operador de exponenciacion
 // x **= y;
@@ -11,7 +26,7 @@ let y = 9;
 // Operador de Resto
 // x %= y;
 // x = x % y;
-// console.log(x);
+//console.log(x);
 
 
 // Operador de Division
@@ -26,17 +41,16 @@ let y = 9;
 // console.log(x);
 
 
-// Operador de resta
+// Operador de sustraccion
 // x -= y;
 // x = x - y;
 // console.log(x);
 
 
-
 // Operador de suma
-// x += y;
-// x = x + y;
-// console.log(x);
+//  x += y;
+// // x = x + y;
+//  console.log(x);
 
 
 // Operador de asignación
